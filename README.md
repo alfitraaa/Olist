@@ -5,7 +5,7 @@ This repository contains analysis of e-commerce data from the Olist dataset. Thi
 The goal of this analysis is to get insights about sales performance on Olist and answer some business questions. In this analysis, data cleaning, data manipulation, data wrangling, and EDA will be carried out using Python programming language and several libraries such as Pandas, Matplotlib, and Seaborn.
 
 ## Repository Structure
-- **data**: the folder containing the Olist dataset in .db format.
+- **data**: the folder containing the Olist.db dataset in Google Drive link.
 - **notebook**: folder containing Python notebook used for data analysis.
 - **images**: the folder containing the images resulting from the data analysis.
 - **README.md**: file containing information about this repository.
